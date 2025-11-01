@@ -98,9 +98,3 @@ Developed by: Suhas H K
 📝 License
 This project is open-source and distributed under the MIT License.
 
-
-scss
-Copy code
-![3D Room Preview](./screenshots/room-preview.png)
-💬 Additional Notes
-This project serves as an OpenGL mini-project for Computer Graphics coursework or as a demonstration of 3D rendering fundamentals using C/C++.
